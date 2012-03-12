@@ -1,7 +1,9 @@
 # Movie-point
 
+A movie finder via relational ranking to seperate the good from the bad.<br />
+
 You can get started with =>
-    $lein run
+<code>$lein run</code>
 
 <h3>How it works.</h3>
 Example:<br />
@@ -120,5 +122,5 @@ Calculating the rank of up to 40 relationships per movie can help weed out the b
 
 ## License
 
-Copyright © 2012
+Copyright © 2012 Ryan Kelker
 Distributed under the Eclipse Public License, the same as Clojure.
