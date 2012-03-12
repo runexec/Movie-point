@@ -1,0 +1,77 @@
+=== Sorted Best to Worse ===
+{:title Project Nim, :rating 1033}
+{:title The Girl with the Dragon Tattoo, :rating 960}
+{:title The Descendants, :rating 922}
+{:title Mission: Impossible Ghost Protocol, :rating 917}
+{:title Tinker Tailor Soldier Spy, :rating 913}
+{:title Sherlock Holmes: A Game of Shadows, :rating 858}
+{:title Lady and the Tramp, :rating 854}
+{:title Star Wars: Episode I - The Phantom Menace, :rating 844}
+{:title Puss in Boots, :rating 844}
+{:title The Adventures of Tintin, :rating 819}
+{:title Anonymous, :rating 812}
+{:title London Boulevard, :rating 787}
+{:title Elite Squad: The Enemy Within, :rating 763}
+{:title Happy Feet Two, :rating 749}
+{:title The Artist, :rating 727}
+{:title Footloose, :rating 726}
+{:title The Thing, :rating 719}
+{:title The Rum Diary, :rating 706}
+{:title Twilight Saga: Breaking Dawn Part 1, :rating 668}
+{:title Young Adult, :rating 659}
+{:title My Week with Marilyn, :rating 654}
+{:title Hugo, :rating 649}
+{:title Immortals, :rating 548}
+{:title Fireflies in the Garden, :rating 535}
+{:title In Time, :rating 534}
+{:title The Three Musketeers, :rating 516}
+{:title The Human Centipede II (Full Sequence), :rating 516}
+{:title The Interrupters, :rating 375}
+{:title Ghost Rider: Spirit of Vengeance, :rating 335}
+{:title Alvin and the Chipmunks: Chipwrecked, :rating 322}
+{:title Take Shelter, :rating 320}
+{:title Martha Marcy May Marlene, :rating 313}
+{:title A Very Harold & Kumar Christmas, :rating 297}
+{:title Melancholia, :rating 241}
+{:title The Rebound, :rating 196}
+{:title A Separation, :rating 193}
+{:title The Secret World of Arrietty, :rating 182}
+{:title In Darkness, :rating 175}
+{:title Drive, :rating 171}
+{:title We Need to Talk About Kevin, :rating 162}
+{:title Jack and Jill, :rating 161}
+{:title Chronicle, :rating 160}
+{:title Miss Bala, :rating 154}
+{:title War Horse, :rating 150}
+{:title The Grey, :rating 148}
+{:title We Bought a Zoo, :rating 144}
+{:title Salmon Fishing in the Yemen, :rating 136}
+{:title Big Miracle, :rating 135}
+{:title The Lorax, :rating 130}
+{:title The Woman in Black, :rating 128}
+{:title Safe House, :rating 124}
+{:title Tiny Furniture, :rating 123}
+{:title Haywire, :rating 122}
+{:title Tower Heist, :rating 122}
+{:title John Carter, :rating 121}
+{:title Friends With Kids, :rating 120}
+{:title Wanderlust, :rating 116}
+{:title Tyler Perry's Good Deeds, :rating 114}
+{:title Act of Valor, :rating 114}
+{:title Contraband, :rating 111}
+{:title Extremely Loud & Incredibly Close, :rating 109}
+{:title The Iron Lady, :rating 107}
+{:title Joyful Noise, :rating 104}
+{:title Red Tails, :rating 101}
+{:title Journey 2: The Mysterious Island, :rating 99}
+{:title Project X, :rating 98}
+{:title This Means War, :rating 96}
+{:title Man on a Ledge, :rating 92}
+{:title Silent House, :rating 92}
+{:title The Vow, :rating 91}
+{:title Johnny English Reborn, :rating 85}
+{:title A Thousand Words, :rating 62}
+{:title Gone, :rating 60}
+{:title Dream House, :rating 43}
+{:title The Son of No One, :rating 40}
+
