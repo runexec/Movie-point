@@ -2,7 +2,7 @@
 
 A movie finder via relational ranking to seperate the good from the bad.<br />
 
-You can get started with =>
+Place your <b>Rotten Tomatoes API Key</b> in the <b>api.key</b> file and get started. =>
 <code>$lein run</code>
 
 <h3>How it works.</h3>
